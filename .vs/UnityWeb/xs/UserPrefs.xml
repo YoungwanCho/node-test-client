@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8601BAAB-9A50-D728-A867-5848C404603C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HttpGetExample.cs">
+    <Files>
+      <File FileName="Assets/Scripts/HttpGetExample.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UnityWeb PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
